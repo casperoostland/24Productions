@@ -1256,6 +1256,7 @@
 			width: 4em;
 			z-index: 2;
 			margin: 0 auto 2em auto;
+            
 		}
 
 			#banner .more:hover {
@@ -1405,3 +1406,9 @@
 			}
 
 		}
+
+.logo {
+    width: 40em;
+    padding-bottom: 5em;
+}
+
