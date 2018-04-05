@@ -1256,7 +1256,7 @@
 			width: 4em;
 			z-index: 2;
 			margin: 0 auto 2em auto;
-            
+
 		}
 
 			#banner .more:hover {
@@ -1365,7 +1365,7 @@
 /* Footer */
 
 	#footer {
-		padding: 4em 0 2em 0;
+		padding: 4em 2em 2em 0;
 		background-color: #1b1b1f;
 		text-align: center;
 	}
@@ -1407,10 +1407,10 @@
 
 		}
 
-.logo {  
-    
-   
-  
-    
+.logo {
+
+
+
+
 }
 
