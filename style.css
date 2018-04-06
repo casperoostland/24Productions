@@ -1,0 +1,13 @@
+#banner {
+    
+}
+
+@media only screen and (max-width: 600px) {
+    .logo {
+        width: 60%;
+    }
+    .more{
+        display: hidden;   
+    }
+}
+
