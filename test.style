@@ -1,50 +1,21 @@
-<!DOCTYPE HTML>
-<!--
-	Full Motion by TEMPLATED
-	templated.co @templatedco
-	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
--->
-<html>
-	<head>
-		<title>24Productions</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="style.css" />
-	</head>
-	<body id="top">
-
-			<!-- Banner -->
-			<!--
-				To use a video as your background, set data-video to the name of your video without
-				its extension (eg. images/banner). Your video must be available in both .mp4 and .webm
-				formats to work correctly.
-			-->
-				<div class="container-fluid">
-
-<div id='videoBG' class="row">
-
-<video autoplay loop muted poster="images/banner.png" id="background">
-<source src="images/banner.mp4" type="video/mp4">
-</video>
-
-
-<!--<p id='mainHeader'> Header Title </p>-->
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Nieuwe site</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="Nieuw.css" />
+</head>
+<body>
+   
+   <!-- Boxes -->
+						
+                            <div><img src="images/banner.png" alt="banner">
 </div>
-</div>
-
-<div class="container-fluid">
-<div class='row'> 
-
-			<!-- Main -->
-				<div id="main">
-					<div class="inner">
-
-					<!-- Boxes -->
-						<div class="thumbnails">
+                            
+                            
+                            
+                            <div class="thumbnails">
 
 							
 							
@@ -112,8 +83,8 @@
 
 						</div>
 
-					</div>
-				</div>
+					
+				
     
 			<!-- Footer -->
 				<footer id="footer">
@@ -124,13 +95,6 @@
 				        E-mail: <a href="mailto:casperoostland@gmail.com">casperoostland@gmail.com</a>
 				    </P>
 				</footer>
-		<!-- Scripts -->
-			<script src="assets/js/jquery.min.js"></script>
-			<script src="assets/js/jquery.scrolly.min.js"></script>
-			<script src="assets/js/jquery.poptrox.min.js"></script>
-			<script src="assets/js/skel.min.js"></script>
-			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
-
-	</body>
+    
+</body>
 </html>
