@@ -1129,6 +1129,7 @@
 		}
 
 		@media screen and (max-width: 736px) {
+            
 
 			#footer {
 				padding: 3em 0 1em 0;
@@ -1149,5 +1150,53 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: dark darkblue;
 }
+
+#background {
+    width: 100%;
+}
+
+
+	#footer {
+		padding: 4em 2em 2em 0;
+		background-color: #1b1b1f;
+		text-align: center;
+	}
+
+		#footer .inner {
+			width: 50%;
+			margin: 0 auto;
+		}
+
+			@media screen and (max-width: 980px) {
+
+				#footer .inner {
+					width: 75%;
+				}
+
+			}
+
+			@media screen and (max-width: 480px) {
+
+				#footer .inner {
+					width: 90%;
+				}
+
+			}
+
+		#footer .copyright {
+			color: rgba(255, 255, 255, 0.5);
+			font-size: 0.9em;
+			margin: 0 0 2em 0;
+			padding: 0;
+			text-align: center;
+		}
+
+		@media screen and (max-width: 736px) {
+
+			#footer {
+				padding: 3em 0 1em 0;
+			}
+
+		}
